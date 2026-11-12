@@ -41,3 +41,6 @@ You can stop the `watch` command with Ctrl+C or open a new terminal.
 Open the Argo CD UI URL. Log in as `admin` with the printed password.
 
 # Next: [Part 1: ClickOps](01-clickops.md)
+
+
+
